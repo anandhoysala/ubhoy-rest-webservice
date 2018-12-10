@@ -1,2 +1,2 @@
 # ubhoy-rest-webservice
-Simple example of Spring REST Webservice
+Simple example of Spring REST Webservice with Spring boot application
